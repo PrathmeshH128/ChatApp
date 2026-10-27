@@ -1,2 +1,0 @@
-# PrimeNumberTest
-Prime number test
